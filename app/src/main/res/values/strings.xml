@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Projeto_Maria</string>
+    <string name="explicacao_permissao" />
+    <string name="botao_fornecer" />
+    <string name="botao_nao_fornecer">Não</string>
+    <string name="erro_api">Não encontrado</string>
+
+    <string name="hint_digite_sexo">sex</string>
+    <string name="botao_buscar">buscar</string>
+    <string name="hint_digite_name"> elephant name</string>
+    <string name="name">name</string>
+    <string name="affiation">affiation</string>
+    <string name="species">species</string>
+    <string name="dasara">Dasara</string>
+    <string name="asian">Asian</string>
+    <string name="male">Male</string>
+    <string name="fatos">note</string>
+    <string name="balarama">Balarama</string>
+    <string name="note">note</string>
+    <string name="sex">sex</string>
+    <string name="botao_consultar">consultar</string>
+</resources>
